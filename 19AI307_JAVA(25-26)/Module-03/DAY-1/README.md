@@ -1,4 +1,4 @@
-\# Ex.No:3(A) INHERITANCE AND AGGREGATION
+# Ex.No:3(A) INHERITANCE AND AGGREGATION
 
 ## QUESTION:
 A jewelry store tracks gold rates for different types of customers. The base class is Customer with attributes like customerId, name, and purchaseWeight (in grams). There are two types of customers: RegularCustomer and PremiumCustomer. RegularCustomer gets a fixed discount of 2% on the gold rate per gram. PremiumCustomer gets a 5% discount plus a special cashback. The base gold rate per gram is input at runtime. For each customer, calculate the final price they pay:
@@ -160,6 +160,7 @@ public class prog {
 
 ## RESULT:
 The program successfully calculates and displays the final payable price for both Regular and Premium customers with applicable discounts and cashback.
+
 
 
 
